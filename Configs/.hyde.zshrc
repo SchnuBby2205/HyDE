@@ -32,6 +32,7 @@ fastfetch.sh
 # alias .4='cd ../../../..'
 # alias .5='cd ../../../../..'
 alias such='code $(fzf --preview="cat {}")'
+alias lg='lazygit'
 
 # # Always mkdir a path (this doesn't inhibit functionality to make a single dir)
 # alias mkdir='mkdir -p'
